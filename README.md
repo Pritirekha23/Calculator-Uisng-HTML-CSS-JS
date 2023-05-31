@@ -23,10 +23,10 @@
     <li>Delete the last character with the delete (Del) button.</li>
 </ul>
 
-<h1>OUTPUT IMAGES</h1>
-<img src="/Output-images/pic1.png" alt="pic1">
-<img src="/Output-imaes/pic2.png" alt="pic2">
-<img src="/Output-images/pic3.png" alt="pic3">
+<h1>Output Iamges</h1>
+<img src="pic1.png" alt="" height="700px" width="100%">
+<img src="pic2.png" alt=""  height="700px" width="100%">
+<img src="pic3.png" alt=""  height="700px" width="100%">
 
 
 
