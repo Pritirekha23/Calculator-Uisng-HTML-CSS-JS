@@ -1,4 +1,4 @@
- #Calculator-Uisng-HTML-CSS-JS
+ <h1>Calculator-Uisng-HTML-CSS-JS</h1>
 <ul>
         <li>Perform basic arithmetic operations: addition, subtraction, multiplication,modulus and division.</li>
         <li>Evaluate mathematical expressions using the equals (=) button.</li>
@@ -24,9 +24,9 @@
 </ul>
 
 <h1>OUTPUT IMAGES</h1>
-<img src="/Output-iamges/pic1.png" alt="pic1">
-<img src="/Output-iamges/pic2.png" alt="pic2">
-<img src="/Output-iamges/pic3.png" alt="pic3">
+<img src="/Output-images/pic1.png" alt="pic1">
+<img src="/Output-imaes/pic2.png" alt="pic2">
+<img src="/Output-images/pic3.png" alt="pic3">
 
 
 
