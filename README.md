@@ -22,3 +22,11 @@
     <li>Clear the input field with the clear (C) button.</li>
     <li>Delete the last character with the delete (Del) button.</li>
 </ul>
+
+<h1>OUTPUT IMAGES</h1>
+<img src="/Output-iamges/pic1.png" alt="pic1">
+<img src="/Output-iamges/pic2.png" alt="pic2">
+<img src="/Output-iamges/pic3.png" alt="pic3">
+
+
+
