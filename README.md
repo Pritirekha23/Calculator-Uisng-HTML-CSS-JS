@@ -1,6 +1,7 @@
  <h1>Calculator-Uisng-HTML-CSS-JS</h1>
-This GitHub repository contains a simple mathematical calculator implemented using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, modulus and division.
 
+This GitHub repository contains a simple mathematical calculator implemented using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, modulus and division.
+<hr>
 
 <ul>
         <li>Perform basic arithmetic operations: addition, subtraction, multiplication,modulus and division.</li>
@@ -11,7 +12,7 @@ This GitHub repository contains a simple mathematical calculator implemented usi
         <li>Intuitive user interface for easy interaction and input.</li>
       </ul>
 
-<h1>Technology Used:</h1>
+<h2>Technology Used:</h2>
   <p><h2>HTML:</h2> Used to structure the calculator interface and elements.</p>
   <p><h2>CSS:</h2>  Styled the calculator layout, buttons, and responsiveness.</p>
   <p><h2>JavaScript:</h2> Implemented the calculator's logic for input handling, calculations, and display .</p>
