@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+.center{
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor:pointer;
+    background-color: black;
+    height:25%;
+    width:15%;
+    border-radius:20px;
+}
+
+.row{
+    margin: 9px 0;
+}
+
+.row input{
+    margin:0;
+    width:168px;
+    padding: 9px;
+    border:2px solid black;
+    border-radius:15px;
+
+}
+
+.button{
+    width:40px;
+    height:40px;
+/*     border:2px solid black; */
+    border-radius:5px;
+    
+}
